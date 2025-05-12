@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm @Jay Rana</h1>
 <h3 align="center">💫 About Me:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayant9917&label=Profile%20views&color=0e75b6&style=flat" alt="jayant9917" /> </p>
 
 
 - 👀 I’m interested in **working on Web-Dev projects**
